@@ -1,0 +1,35 @@
+#fist{
+    background-color: rgb(27, 163, 197);
+    color: black;
+}
+
+#table1{
+    color: black;
+}
+
+h3{
+    color: #000000;
+}
+
+.na1{
+    background-color: black;
+    color: white;
+    font-family: monospace;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    border-color: black;
+    border-width: 5px;
+    width: 60%;
+}
+
+.li1{
+    color: white;
+}
+
+main{
+    display: flex;
+    flex-direction: row-reverse;
+}
